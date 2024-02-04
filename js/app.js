@@ -147,7 +147,7 @@ function setCurrentDateTime() {
 		document.getElementById("table_header_title").innerHTML = "Prayer Times";
 		document.getElementById("footer_note").innerHTML = "* Highlited row define the current waqt</sma";
 	}
-	document.getElementById("currentDateTime").innerHTML = moment().format('MMMM Do YYYY, h:mm:ss a');
+	document.getElementById("currentDateTime").innerHTML = moment().format('Do MMMM YYYY, h:mm:ss a');
 }
 setInterval(setCurrentDateTime, 0);
 
