@@ -10,3 +10,9 @@ Countdown bangla clock show the date and time in Bengali font. Your simple and b
 - It can show the location of all the districts of Bangladesh and around the world during #sunrise and #sunset.
 
 <a href="https://aladaapp.github.io/CountdownBanglaClock/"><strong>Web version ➥LIVE DEMO</strong></a>
+
+## Download
+* [Latest version release](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.4.apk) (recommended)
+* [version v1.0.1 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.1.apk)
+* [version v1.0.3 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.3.apk)
+* [version v1.0.4 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.4.apk)
