@@ -21,3 +21,26 @@ Countdown bangla clock show the date and time in Bengali font. Your simple and b
 * [version v1.0.1 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.1.apk)
 * [version v1.0.3 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.3.apk)
 * [version v1.0.4 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.4.apk)
+
+## Change log & updates
+| Version 1.0.1                          |
+| ----------------------------- |
+| Released Date: 3 Feb 2024                  |
+| #Initial Release                  |
+
+| Version 1.0.3                          |
+| ----------------------------- |
+| Released Date: 6 Feb 2024                  |
+| * Fixed notification sound problems.                 |
+
+| Version 1.0.4                          |
+| ----------------------------- |
+| Released Date: 6 Feb 2024                  |
+| * Fixed some error. |
+| * Added widgets. |
+| * Added notification clock. |
+
+## Developer contact
+[Website](https://freelancermustakin.github.io) <br>
+
+
