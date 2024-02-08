@@ -17,10 +17,11 @@ Countdown bangla clock show the date and time in Bengali font. Your simple and b
  <a href="#"><img alt="Get it on App Store" 
 	src="https://raw.githubusercontent.com/aladaapp/aladaapp/2768f4434ff098a5fddd982dcdb79c4e53d4f238/assets/svg/badge/badge_app_store_p001_202401.svg" style="padding-left:15px;" width="170" height="70"></a>
 
-* [Latest version release](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.4.apk) (recommended)
+* [Latest version release](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.5.apk) (recommended)
 * [version v1.0.1 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.1.apk)
 * [version v1.0.3 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.3.apk)
 * [version v1.0.4 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.4.apk)
+* [version v1.0.4 apk](https://github.com/aladaapp/CountdownBanglaClock/raw/main/software-release/android-release/app-release%20v1.0.5.apk)
 
 ## Change log & updates
 | Version 1.0.1                          |
@@ -35,10 +36,16 @@ Countdown bangla clock show the date and time in Bengali font. Your simple and b
 
 | Version 1.0.4                          |
 | ----------------------------- |
-| Released Date: 6 Feb 2024                  |
+| Released Date: 7 Feb 2024                  |
 | * Fixed some error. |
 | * Added widgets. |
 | * Added notification clock. |
+
+| Version 1.0.5                          |
+| ----------------------------- |
+| Released Date: 8 Feb 2024                  |
+| * Fixed notification clicks problems. |
+| * Added current location date, pray & and more. |
 
 ## Developer contact
 [Website](https://freelancermustakin.github.io) <br>
